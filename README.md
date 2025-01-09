@@ -13,7 +13,7 @@ npm install
 You first need to compile the contract and upload it to the blockchain network. Run the following commands to compile and upload the contract.
 
 ## If you are Using ganache-cli for local blockchain deployment
-hardhat.config.js
+'''hardhat.config.js
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
@@ -35,7 +35,7 @@ module.exports = {
       gasPrice: 20000000000, // You can adjust the gas price if necessary
     },
   },
-};
+};'''
 
 ```shell
 npx hardhat compile 
