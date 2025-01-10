@@ -1,6 +1,7 @@
 # Decentralized Voting Application
 
-This is a demo application to implement voting in solidity smart contract using ReactJS. 
+This is a demo application to implement voting in solidity smart contract using ReactJS.
+this application Use hardhat for deployment and Ganache as a Local Blockchanin.
 
 ## Installation
 
